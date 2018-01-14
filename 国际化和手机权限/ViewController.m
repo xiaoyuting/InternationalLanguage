@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+static NSString *appLanguage = @"appLanguage";
 @interface ViewController ()
 
 @end
@@ -25,6 +25,25 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
+- (IBAction)changeLanguage:(UIButton *)sender {
+    
+    switch (sender.tag) {
+        case 101: {
+            [[NSUserDefaults standardUserDefaults] setObject:@"zh-Hans" forKey:appLanguage];
+        }
+            break;
+        case 102: {
+            [[NSUserDefaults standardUserDefaults] setObject:@"zh-Hant" forKey:appLanguage];
+        }
+            break;
+        case 103: {
+            [[NSUserDefaults standardUserDefaults] setObject:@"en" forKey:appLanguage];
+        }
+            break;
+        default:
+            break;
+    }
+    
+}
 
 @end

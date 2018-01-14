@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Code Block
+
+  Created by 史博 on 17/3/1.
+  Copyright © 2017年 史博. All rights reserved.
+*/
+
+
+/* F */
+"XM_.FriendlyReminder_lu" = "溫馨提醒";
+
+/* 检测到当前网络不可用，请检查后重试 */
+"DK_dialog_title_net_error" = "當前網路不可用，請確認後重試";
+
+/* 您设置了不允许发送推送通知，请到设置->通知里允许接收程序推送消息 */
+"You disabled access, please go to Settings->Notifications  to set up access" = "您已設置不允許發送通知。請到設置->通知，並允許應用程式接收通知。";
+
+
+
+/* 请在“设置-隐私-%@”选项中，允许App访问您的%@ */
+"model" = "請到 設置 -> 隱私 -> %@ 選項中，允許App訪問您的%@";
+
+
+/*通讯录*/
+"Contacts" = "通訊錄";
+
+/*照片*/
+"Album" = "照片";
+
+/*相机*/
+"Camera" = "相機";
+
+/*日历*/
+"Calendar" = "日曆";
+
+/*备忘录*/
+"Memo" = "備忘錄";
+
+/*语音识别*/
+"Speech Recognition" = "語音識別";
+
+/*麦克风*/
+"microphone" = "麥克風";
+
+/*定位*/
+"positioning service" = "定位服務";

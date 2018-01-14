@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  iosAu
+
+  Created by 史博 on 17/3/1.
+  Copyright © 2017年 史博. All rights reserved.
+*/
+/* 温馨提示 */
+"XM_.FriendlyReminder_lu" = "Vinkkejä";
+
+/* 请在“设置-隐私-%@”选项中，允许App访问您的%@ */
+"model" = "Ole hyvä Asetukset -> Tietosuoja -> %@ vaihtoehto, jonka avulla App käsiksi %@";
+
+
+/* 检测到当前网络不可用，请检查后重试 */
+"DK_dialog_title_net_error" = "Havaitsee, että nykyinen verkko ei ole käytettävissä. Yritä uudelleen tarkistaa";
+
+/* 您设置了不允许发送推送通知，请到设置->通知里允许接收程序推送消息 */
+"You disabled access, please go to Settings->Notifications  to set up access" = "Et saa määrittää ilmoitukset, mene Asetukset -> Ilmoitukset ohjelmaan voidaan vastaanottaa push-viestejä";
+
+/*通讯录*/
+"Contacts" = "Yhteydet";
+
+/*照片*/
+"Album" = "valokuva";
+
+/*相机*/
+"Camera" = "kamera";
+
+/*日历*/
+"Calendar" = "kalenteri";
+
+/*备忘录*/
+"Memo" = "muistio";
+
+/*语音识别*/
+"Speech Recognition" = "Puheentunnistus";
+
+/*麦克风*/
+"microphone" = "mikrofoni";
+
+/*定位服务*/
+"positioning service" = "Sijainti Palvelut";
+

@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  iosAu
+
+  Created by 史博 on 17/3/1.
+  Copyright © 2017年 史博. All rights reserved.
+*/
+/* F */
+"XM_.FriendlyReminder_lu" = "نصائح";
+
+/* 请在“设置-隐私-%@”选项中，允许App访问您的%@ */
+"model" = "يرجى الإعدادات -> الخصوصية -> %@ الخيار الذي يسمح التطبيق للوصول إلى %@ الخاص";
+
+/* 检测到当前网络不可用，请检查后重试 */
+"DK_dialog_title_net_error" = "يكتشف أن الشبكة الحالية غير متوفرة، يرجى المحاولة مرة أخرى تحقق";
+
+/* 您设置了不允许发送推送通知，请到设置->通知里允许接收程序推送消息 */
+"You disabled access, please go to Settings->Notifications  to set up access" = "لا يسمح لك لانشاء الإشعارات، انتقل إلى إعدادات -> رسائل دفع الإخطارات في البرنامج يمكن استقبال";
+
+/*通讯录*/
+"Contacts" = "اتصالات";
+
+/*照片*/
+"Album" = "صور";
+
+/*相机*/
+"Camera" = "كاميرا";
+
+/*日历*/
+"Calendar" = "تقويم";
+
+/*备忘录*/
+"Memo" = "مذكرة";
+
+/*语音识别*/
+"Speech Recognition" = "التعرف على الكلام";
+
+/*麦克风*/
+"microphone" = "ميكروفون";
+
+/*定位服务*/
+"positioning service" = "خدمات الموقع";
+
